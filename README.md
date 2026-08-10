@@ -482,3 +482,10 @@ I'm always interested in learning new technologies, building projects, and impro
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
+## 🐍 My GitHub Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/Abdullah/gh-pages/github-contribution-grid-snake.svg">
+
+</div>
